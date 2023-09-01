@@ -6,7 +6,7 @@
 
 O tema da aplicação é sobre os agentes do Valorant onde a aplicação mostrar o nome dos mesmos,função, imagem e os pixeis das habilidades em cada mapa junto com uma uma descrição das habilidades.
 
-## :paperclips:	 Objetivo
+## 🎯 Objetivo
 
 Demonstrar conhecimento e aprendizado com as novas tecnologias do React.js utilizando Redux-Saga e o Redux-toolkit.
 
