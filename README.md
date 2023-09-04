@@ -27,4 +27,28 @@ Demonstrar conhecimento e aprendizado com as novas tecnologias do React.js utili
 
 ## :computer:	Iniciando o projeto localmente
 
+
+```
+git clone https://github.com/ArthurwJesus/Simple-Page-Valorant-Guide.git
+```
+
+Dentro da pasta Web,abra um terminal e digite o comando no terminal:
+
+```
+npm i
+```
+
+Logo após
+
+```
+npm start
+```
+
+Agora acesse a pasta data e digite o comando no terminal:
+
+
+```
+json-server --watch db.json --port 3030
+```
+
 ## :globe_with_meridians:	Acessando o projeto pela Web
