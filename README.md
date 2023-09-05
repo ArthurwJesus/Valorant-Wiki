@@ -45,6 +45,11 @@ Logo após
 ```
 npm start
 ```
+Agora iremos subir o storybook
+
+```
+npm run storybook
+```
 
 Agora acesse a pasta data e digite o comando no terminal:
 
@@ -53,7 +58,7 @@ Agora acesse a pasta data e digite o comando no terminal:
 json-server --watch db.json --port 3030
 ```
 
-## Organização do projeto
+## :scroll: Organização do projeto
 
 A imagem asseguir demonstra a organização do projeto descrevendo o que cada pasta possui:
 
