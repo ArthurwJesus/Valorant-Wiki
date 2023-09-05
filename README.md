@@ -53,4 +53,8 @@ Agora acesse a pasta data e digite o comando no terminal:
 json-server --watch db.json --port 3030
 ```
 
+## Organização do projeto
+
+A imagem asseguir demonstra a organização do projeto descrevendo o que cada pasta possui:
+
 ## :globe_with_meridians:	Acessando o projeto pela Web
