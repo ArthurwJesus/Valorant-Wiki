@@ -1,4 +1,4 @@
-# Simple-Page-Valorant-Guide
+# Valorant Wiki Guide
 
 ## :eyes: Visualização do projeto
 
@@ -15,17 +15,35 @@ Demonstrar conhecimento e aprendizado com as novas tecnologias do React.js utili
 ## :scroll:	Versionamento
 
 - **1.0** Primeira versão do projeto consistem em apenas a parte web realizando requisições a um mock.
-- **2.0** Segunda versão do projeto consiste em melhorias visuais e uma tela de login com uma aplicação propria removendo os mocks da aplicação.
+- **2.0** Segunda versão do projeto consiste em melhorias visuais e uma tela de login com uma aplicação para consulta de dados propria removendo assim os mocks da aplicação e adicionando as funcionalidades de favorito.
 
 ## :open_file_folder:	 Stacks
 
 - React.js
 - Docker
-- Redux-Saga + Redux Toolkit
-- StoryBook
+- Golang
+- SQL
   
   ### :card_index_dividers:	 Bibliotecas usadas
-  
+
+  - @redux-saga/core
+  - @reduxjs/toolkit
+  - @testing-library/jest-dom
+  - @testing-library/react
+  - @testing-library/user-event
+  - Axios
+  - Bootstrap
+  - Classnames
+  - Moment
+  - React
+  - React-dom
+  - React-icons
+  - React-redux
+  - React-router-dom
+  - React-Scripts
+  - Redux-saga
+  - Saas
+  - Web-vitals
 
 ## :computer:	Iniciando o projeto localmente
 
