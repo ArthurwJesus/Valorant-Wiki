@@ -45,6 +45,8 @@ Demonstrar conhecimento e aprendizado com as novas tecnologias do React.js utili
   - Saas
   - Web-vitals
 
+  - json-server
+
 ## :computer:	Iniciando o projeto localmente
 
 
